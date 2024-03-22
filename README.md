@@ -1,5 +1,5 @@
 # week-one-code-challenge
-=== on this weeks code challenge i am required to achive the following challanges:
+## on this weeks code challenge i am required to achive the following challanges:
       1.student grade generator
 Write a program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade: 
 
@@ -9,23 +9,5 @@ Write a program that takes as input the speed of a car e.g 80. If the speed is l
       3.Net salary calculator
 Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits.
 
-# Foobar
 
-Foobar is a Python library for dealing with word pluralization.
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
 
