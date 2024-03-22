@@ -1,5 +1,6 @@
 # week-one-code-challenge
-## on this weeks code challenge i am required to achive the following challanges:
+## CHALLANGE
+on this weeks code challenge i am required to achive the following challanges:
       1.student grade generator
 Write a program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade: 
 
