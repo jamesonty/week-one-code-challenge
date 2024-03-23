@@ -24,5 +24,5 @@ function StudentGrades(marks){
         return "E"
     }
 }
-//in the brackets bellow where the no. is add the desired no. you intend to know the grade
+//in the brackets bellow where the no. is add the desired no. you intend to know the gradein
 console.log("grade for input number is:" +gradeRemit(90))
